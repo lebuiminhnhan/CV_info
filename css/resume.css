@@ -15,6 +15,7 @@ body {
     padding-top: 0;
     padding-left: 17rem;
   }
+ 
 }
 
 h1,
@@ -94,6 +95,7 @@ p.lead {
 }
 
 @media (min-width: 992px) {
+  
   #sideNav {
     text-align: center;
     position: fixed;
